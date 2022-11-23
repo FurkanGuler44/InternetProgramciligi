@@ -71,6 +71,7 @@ $newStaff = new Staff();
 $newStaff->getStaffName("Barış");
 final class Customer extends Person
 {
+    
 }
 
 final class Company extends Customer{
