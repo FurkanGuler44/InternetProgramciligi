@@ -48,6 +48,7 @@ use Sinif as GlobalSinif;
         }
     }
 
+    
     $myClass = new Sinif();
     $myClass->Grade(50,80);
     $myClass->factoriel(5);

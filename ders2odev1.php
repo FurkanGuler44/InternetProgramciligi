@@ -15,9 +15,7 @@ class Calculator {
     $num2=$number2;
     $num3=$number3;
    }
-
-   
-   public function TakeSquare($inputnum){
+    public function TakeSquare($inputnum){
     return $inputnum*$inputnum;
    }
 
